@@ -1,0 +1,18 @@
+-------------Project Architecture(what each folder/files should have(responsbilities))-----------------
+
+  JobNex/
+  | --Frontend/
+  |      |-Index.html
+  |      |- .cs
+  |      |-  .js
+  |      |-  .jsx
+  | --Backend/
+  |        |-main.py
+  |        |- database.py
+  |        |-  Modules.py
+  |        |-  Schema.py
+  |        |-Requirements.txt
+  |        |-Roots/
+  |             |-analysis.py
+  |        |-Services/
+  |            |-AI_Service.py
