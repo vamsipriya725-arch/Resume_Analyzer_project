@@ -1,19 +1,53 @@
------------------------------------------------------------------------------------
+                    **Common Project Flow**
+-------------------------------------------------------------------------------------
+                           real problem
+                              |
+                           1 feature
+                              |
+                           Data base(Schema Design)
+                              |
+                           Python API
+                              |
+                           front end
+                              |
+                           AI/LLM
+                              |
+                           Testing
+                              |
+                           Deployment
+                              |
+                           Multiple features
+                              |
+                           Final Projects
+----------------------------------------------------------------------------------------
+            ----Whats our Product system Do----
+User will upload->Resume,JD
+System will return->Match Score,related jobs according to JD,Matched Skills,Missing Skills+what to learn,Suggestions(What,how to add)
+
+------------------------------TECH STACK-------------------------------------------
+
+User Interface                            ->            HTML/CSS /JS/REACT
+Business Logic/API                        ->              Python
+Data Management                           ->               MySql
+Resume/JD Analysis                        ->              AI/LLM
+BackEnd logic communication with          ->              RestAPI
+Version Control                           ->                GIT                                       
+(Divide product into features and work in a team)
 
 
-real problem
-   |
-1 feature
-   |
-Data base(Schema Design)
-   |
-Python API
-   |
-front end
-   |
-AI/LLM
-   |
-Testing
-   |
-Deployment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
