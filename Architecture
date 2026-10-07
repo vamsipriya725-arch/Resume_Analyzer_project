@@ -2,9 +2,9 @@
 
   JobNex/
   | --Frontend/
-  |      |-Index.html
-  |      |- .cs
-  |      |-  .js
+  |      |-Index.html(static page)
+  |      |- .css(Styling)
+  |      |-  .js(what happened when user click something)
   |      |-  .jsx
   | --Backend/
   |        |-main.py
