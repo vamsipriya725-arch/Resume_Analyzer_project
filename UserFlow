@@ -1,0 +1,14 @@
+--------User Flow Behind the scenes-----
+
+         User
+          |
+        FrontEnd sends data
+          |
+        Python API
+          |
+        AI(Analyze result)
+           |
+  ____________________
+  |                  |
+  MySql           FrontEnd
+(store data)      (Display result)
