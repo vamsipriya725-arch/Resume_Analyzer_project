@@ -1,0 +1,29 @@
+-----Project Development life cycle--------
+
+Installing tools
+   |
+Create Project Folder
+    |
+Create FrontEnd folder(included all related files)
+    |
+Use Python backend
+    |
+Make Frontend talks to Backend
+    |
+Install/connect mysql
+    |
+Save data into mysql
+    |
+Read data from mysql
+    |
+Connect AI
+    |
+Show AI Analyse result
+    |
+Handle/Debug errors
+    |
+ Git/GitHub(to work with teams)
+    |
+ Deployment
+
+
