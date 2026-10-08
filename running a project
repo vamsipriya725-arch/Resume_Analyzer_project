@@ -1,2 +1,5 @@
 Enter into Backend Folder->cd backend
+if env is not exist->python -m venv vname
 Activate your virtual enviromnent-> vname\Scripts\activate
+run the fast api to coneect frontend and backend->uvicorn main:app -- reload
+install fastap if didn't exist-> pip install fastapi uvicorn
