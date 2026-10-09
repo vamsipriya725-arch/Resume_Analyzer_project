@@ -7,3 +7,12 @@ MySql connector
        |
 Mysql database
 (Stores the analysis data)
+
+Create database.py(inside our backend folder create a new file database.py)
+Then architecture become 
+jobnex/
+├── frontend/
+└── backend/
+    ├── venv/
+    ├── main.py
+    └── database.py
