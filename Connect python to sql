@@ -1,0 +1,9 @@
+--------Connect python to mysql------------
+Python backend
+(receives the resume and jd)
+      |
+MySql connector
+(allow python to communicate with mysql)
+       |
+Mysql database
+(Stores the analysis data)
