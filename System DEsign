@@ -1,0 +1,13 @@
+-----------System Design ------------------------------
+inputs:requirements
+
+             ------------
+i/p--------->|Black box |----------->o/p
+             ------------
+
+DNS-> load balancer(servers)-> centerlized Database
+
+      
+load balancer->(manages the load on the server)&bridge b/w the servers 
+
+scale the servers
